@@ -1340,7 +1340,7 @@ function run(char){
         }
         else{
             catdiv.classList.add('fade-in');
-            catdiv.style.animationDelay = `${(i-1) * 1}s`;
+            catdiv.style.animationDelay = `${(i-1) * 0.7}s`;
         }
         catdiv.classList.add("box");
         char[i].forEach(pow => {

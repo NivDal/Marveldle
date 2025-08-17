@@ -56,7 +56,7 @@ body{
 .fade-in {
     opacity: 0;
     transform: translateY(10px); /* optional slight move up effect */
-    animation: fadeInUp 1s forwards;
+    animation: fadeInUp 0.7s forwards;
 }
 .newguess{
     display: flex;
