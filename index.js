@@ -1322,14 +1322,6 @@ function Guess(){
     };
 };
 function run(char){
-    if (char == randomChar){
-        GuessArea.innerHTML += "Correct!";
-        let img = document.createElement("img");
-        img.setAttribute("src", "Pictures/" + Input.value + ".png");
-        img.setAttribute("height", "500px");
-        img.setAttribute("width", "500px");
-        win.appendChild(img);
-    }
     Input.value = "";
     const newguess = document.createElement("div");
     newguess.className = "newguess";
@@ -1377,5 +1369,13 @@ function run(char){
     }
     else{
         GameArea.appendChild(newguess);
+    }
+    if (char == randomChar){
+        GuessArea.innerHTML += "Correct!";
+        let img = document.createElement("img");
+        img.setAttribute("src", "Pictures/" + Input.value + ".png");
+        img.setAttribute("height", "500px");
+        img.setAttribute("width", "500px");
+        win.appendChild(img);
     }
 };
