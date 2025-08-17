@@ -1335,8 +1335,12 @@ function run(char){
     newguess.className = "newguess";
     for (let i = 0; i<8; i++){
         const catdiv = document.createElement("div");
-                if (i == 0){
-            catdiv.classList.add("picture")
+        if (i == 0){
+            catdiv.classList.add("picture");
+        }
+        else{
+            catdiv.classList.add('fade-in');
+            catdiv.style.animationDelay = `${(i-1) * 1}s`;
         }
         catdiv.classList.add("box");
         char[i].forEach(pow => {
