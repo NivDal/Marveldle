@@ -72,7 +72,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow-y: auto;
+    max-height: none;
+    overflow-y: auto; 
+    flex-direction: column;
+}
+.box.toolong{
+    justify-content: flex-start;
 }
 #suggestions {
     position: absolute;     

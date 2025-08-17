@@ -1360,6 +1360,9 @@ function run(char){
                 catdiv.classList.add("wrong");
             }
         }
+        if (char[i].length > 5){
+            catdiv.classList.add("toolong")
+        }
         newguess.appendChild(catdiv);
     }
     if (GameArea.children.length > 1){
