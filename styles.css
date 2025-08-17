@@ -77,8 +77,8 @@ body{
     background-color: rgb(8,132,4);
 }
 .box{
-    height: 130px;
-    width: 130px;
+    height: 128px;
+    width: 128px;
     border: 1px solid white;
     margin-top: 10px;
     margin-right: 5px;
@@ -90,8 +90,7 @@ body{
     align-items: center;
     max-height: none;
     flex-direction: column;
-    max-height: 130px;
-    height: 130px;
+    max-height: 128px;
 }
 .box.toolong{
     overflow-y: auto; 
