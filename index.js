@@ -152,7 +152,7 @@ Cassandra = [["<img src='Pictures/Cassandra Nova.png' height='130px' width='130p
 Namor = [["<img src='Pictures/Batroc.png' height='130px' width='130px'>"],["Male"],["Antihero"],["Human"],["None"],["Earth"],["None"],["Movies", "Live action series"]];
 Valkyrie = [["<img src='Pictures/Valkyrie.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Asgardian"],["Strength", "Resistance", "Regeneration"],["Asgard"],["Revengers"],["Movies"]];
 Vision = [["<img src='Pictures/Vision.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Robot"],["Strength", "Energy", "Resistance", "Regeneration","Flight", "Shapeshifting"],["Earth"],["Avengers"],["Movies", "Live action series"]];
-Volstagg = [["<img src='Pictures/Volstagg.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Asgardian"],["Strength", "Resistance", "Regeneration"],["Asgard"],["Warriors Three"],["Movies"]];
+Volstagg = [["<img src='Pictures/Volstagg.png' height='130px' width='130px'>"],["Male"],["Supporting"],["Asgardian"],["Strength", "Resistance", "Regeneration"],["Asgard"],["Warriors Three"],["Movies"]];
 Nakia = [["<img src='Pictures/Nakia.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Human"],["None"],["Earth"],["None"],["Movies"]];
 Natalie = [["<img src='Pictures/N.A.T.A.L.I.E..png' height='130px' width='130px'>"],["Male"],["Supporting"],["Artificial Intelligence"],["Technological"],["Earth"],["None"],["Live action series"]];
 Nebula = [["<img src='Pictures/Nebula.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Luphomoid"],["Strength", "Agility", "Resistance", "Regeneration", "Technological", "Shapeshifting"],["Luphom"],["Avengers", "Guardians of the Galaxy", "Black Order"],["Movies"]];
@@ -1379,3 +1379,4 @@ function run(char){
         GameArea.appendChild(newguess);
     }
 };
+
