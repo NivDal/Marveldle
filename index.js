@@ -326,7 +326,7 @@ var aliases = {
     "iron man": "Iron Man",
     "iron monger": "Iron Monger",
     "ivan antonovich vanko": "Whiplash",
-    "Obsidian": "Cull Obsidian",
+    "obsidian": "Cull Obsidian",
     "obadiah stane": "Iron Monger",
     "obfonteri": "Kraglin Obfonteri",
     "otter": "Lylla",
