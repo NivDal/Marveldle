@@ -1266,64 +1266,56 @@ function Guess(){
                 Characters[150] = "";
                 run(Cassandra);
                 break;
-            case "Valkyrie":
+            case "Namor":
                 Characters[151] = "";
+                run(Namor);
+                break;
+            case "Valkyrie":
+                Characters[152] = "";
                 run(Valkyrie);
                 break;
             case "Vision":
-                Characters[152] = "";
+                Characters[153] = "";
                 run(Vision);
                 break;
             case "Volstagg":
-                Characters[153] = "";
+                Characters[154] = "";
                 run(Volstagg);
                 break;
             case "Nakia":
-                Characters[154] = "";
+                Characters[155] = "";
                 run(Nakia);
                 break;
             case "N.A.T.A.L.I.E.":
-                Characters[155] = "";
+                Characters[156] = "";
                 run(Natalie);
                 break;
             case "Nebula":
-                Characters[156] = "";
+                Characters[157] = "";
                 run(Nebula);
                 break;
-            case "Miek":
-                Characters[157] = "";
-                run(Miek);
-                break;
-            case "Miss Minutes":
-                Characters[158] = "";
-                run(Minutes);
-                break;
-            case "Morris":
-                Characters[159] = "";
-                run(Morris);
-                break;
             case "Makkari":
-                Characters[160] = "";
+                Characters[158] = "";
                 run(Makkari);
                 break;
             case "Malekith":
-                Characters[161] = "";
+                Characters[159] = "";
                 run(Malekith);
                 break;
             case "Mantis":
-                Characters[162] = "";
+                Characters[160] = "";
                 run(Mantis);
                 break;
             case "Miek":
-                Characters[163] = "";
+                Characters[161] = "";
                 run(Miek);
                 break;
             case "Miss Minutes":
-                Characters[164] = "";
+                Characters[162] = "";
                 run(Minutes);
                 break;
             case "Morris":
-                Characters[165] = "";
+                Characters[163] = "";
                 run(Morris);
                 break;
         };
