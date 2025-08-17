@@ -1335,6 +1335,9 @@ function run(char){
     newguess.className = "newguess";
     for (let i = 0; i<8; i++){
         const catdiv = document.createElement("div");
+                if (i == 0){
+            catdiv.classList.add("picture")
+        }
         catdiv.classList.add("box");
         char[i].forEach(pow => {
             catdiv.innerHTML += pow + "<br>";
