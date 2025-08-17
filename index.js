@@ -8,7 +8,7 @@ Myst = [["<img src='Pictures/Mysterio.png' height='128px' width='128px'>"],["Mal
 Quake = [["<img src='Pictures/Quake.png' height='128px' width='128px'>"],["Female"],["Agent"],["Inhuman"],["Elemental"],["Earth"],["S.H.I.E.L.D."],["Live action series"]];
 Quick = [["<img src='Pictures/Quicksilver.png' height='128px' width='128px'>"],["Male"],["Superhero"],["Human", "Mutate"],["Speed"],["Earth"],["Avengers"],["Movies"]];
 Starlord = [["<img src='Pictures/Star-Lord.png' height='128px' width='128px'>"],["Male"],["Superhero"],["Human", "Celestial"],["None"],["Earth"],["Guardians of the Galaxy", "Ravagers"],["Movies"]];
-AdamW = [["<img src='Pictures/Adam Warlock.png' height='128px' width='128px'>"],["Male"],["Antihero"],["Sovereign"],["Strength", "Energy", "Resistance", "Flight"],["Sovereign"],["Guardians of the Galaxy"],["Movies"]];
+AdamW = [["<img src='Pictures/Adam Warlock.png' height='128px' width='128px'>"],["Male"],["Superhero"],["Sovereign"],["Strength", "Energy", "Resistance", "Flight"],["Sovereign"],["Guardians of the Galaxy"],["Movies"]];
 AliceW = [["<img src='Pictures/Alice Wu-Gulliver.png' height='128px' width='128px'>"],["Female"],["Supporting"],["Human"],["Resistance", "Magic"],["Earth"],["Agatha's Coven"],["Live action series"]];
 BlackWid = [["<img src='Pictures/Black Widow.png' height='128px' width='128px'>"],["Female"],["Superhero"],["Human"],["None"],["Earth"],["Avengers", "S.H.I.E.L.D.", "Red Room"],["Movies"]];
 SamW = [["<img src='Pictures/Captain America (Sam Wilson).png' height='128px' width='128px'>"],["Male"],["Superhero"],["Human"],["Flight", "Technological"],["Earth"],["Avengers"],["Movies", "Live action series"]];
