@@ -127,6 +127,41 @@ Gamora = [["<img src='Pictures/Gamora.png' height='130px' width='130px'>"],["Fem
 Gilgamesh = [["<img src='Pictures/Gilgamesh.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Eternal"],["Strength", "Resistance", "Regeneration"],["Worldforge"],["Eternals"],["Movies"]];
 Goose = [["<img src='Pictures/Goose.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Flerken"],["Perception", "Pocket Dimension"],["Unknown"],["None"],["Movies"]];
 Groot = [["<img src='Pictures/Groot.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Flora Colossus"],["Strength", "Resistance", "Regeneration", "Elemental"],["Earth"],["Guardian of the Galaxy"],["Movies", "Animation"]];
+Happy = [["<img src='Pictures/Happy Hogan.png' height='130px' width='130px'>"],["Male"],["Supporting"],["Human"],["None"],["Earth"],["None"],["Movies"]];
+Hawkeye = [["<img src='Pictures/Hawkeye.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Human"],["None"],["Earth"],["Avengers", "S.H.I.E.L.D."],["Movies", "Live action series"]];
+Heimdall = [["<img src='Pictures/Heimdall.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Asgardian"],["Strength", "Resistance", "Regeneration", "Magic", "Perception"],["Asgard"],["None"],["Movies"]];
+Hela = [["<img src='Pictures/Hela.png' height='130px' width='130px'>"],["Female"],["Villain"],["Asgradian"],["Strength", "Resistance", "Regeneration", "Magic"],["Asgard"],["None"],["Movies"]];
+Hogun = [["<img src='Pictures/Hogun.png' height='130px' width='130px'>"],["Male"],["Supporting"],["Vanir"],["Strength", "Resistance", "Regeneration"],["Vanirheim"],["Warriors Three"],["Movies"]];
+Hulk = [["<img src='Pictures/Hulk.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Human", "Mutate"],["Strength", "Resistance", "Regeneration", "Shapeshifting"],["Earth"],["Avengers", "Revengers"],["Movies", "Live action series"]];
+Maria = [["<img src='Pictures/Maria Hill.png' height='130px' width='130px'>"],["Female"],["Agent"],["Human"],["None"],["Earth"],["S.H.I.E.L.D."],["Movies", "Live action series"]];
+Hart = [["<img src='Pictures/Mrs. Hart.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Human"],["None"],["Earth"],["Agatha's Coven"],["Live action series"]];
+Jennifer = [["<img src='Pictures/Jennifer Kale.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Human"],["Resistance", "Magic", "Flight"],["Earth"],["Agatha's Coven"],["Live action series"]];
+Kaecilius = [["<img src='Pictures/Kaecilius.png' height='130px' width='130px'>"],["Male"],["Villain"],["Mindless One"],["Energy", "Resistance", "Magic"],["Earth"],["Master of Mystic Arts", "Zealots"],["Movies"]];
+Kahhori = [["<img src='Pictures/Kahhori.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Human", "Mutate"],["Strength", "Energy", "Resistance", "Regeneration", "Flight", "Kinesis", "Interdimensional Travel", "Speed"],["Earth"],["Guardians of the Multiverse"],["Animation"]];
+Kate = [["<img src='Pictures/Kate Bishop.png' height='130px' width='130px'>"],["Female"],["Vigilante"],["Human"],["None"],["Earth"],["None"],["Movies", "Live action series"]];
+Khonshu = [["<img src='Pictures/Khonshu.png' height='130px' width='130px'>"],["Male"],["Unknown"],["Ennead"],["Magic", "Elemental", "Shapeshifting", "Psychic", "Kinesis"],["Unknown"],["None"],["Live action series"]];
+Kingo = [["<img src='Pictures/Kingo.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Eternal"],["Strength", "Energy", "Resistance", "Regeneration"],["Worldforge"],["Eternals"],["Movies"]];
+Korg = [["<img src='Pictures/Korg.png' height='130px' width='130px'>"],["Male"],["Supporting"],["Kronan"],["Strength", "Resistance"],["Ria"],["None"],["Movies"]];
+MsMarvel = [["<img src='Pictures/Ms. Marvel.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Mutant", "Inhuman"],["Energy", "Regeneration", "Perception"],["Earth"],["Clandestines"],["Movies", "Live action series"]];
+Batroc = [["<img src='Pictures/Batroc.png' height='130px' width='130px'>"],["Male"],["Antihero"],["Human"],["None"],["Earth"],["None"],["Movies", "Live action series"]];
+Laufey = [["<img src='Pictures/Laufey.png' height='130px' width='130px'>"],["Male"],["Villain"],["Frost Giant"],["Strength", "Resistance", "Regeneration", "Elemental"],["Jotunheim"],["None"],["Movies"]];
+Lilia = [["<img src='Pictures/Lilia Calderu.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Human"],["Resistance", "Magic", "Perception"],["Earth"],["Agatha's Coven"],["Live action series"]];
+Luis = [["<img src='Pictures/Luis.png' height='130px' width='130px'>"],["Male"],["Supporting"],["Human"],["None"],["Earth"],["XCON Security", "Consultants"],["Movies"]];
+Zemo = [["<img src='Pictures/Baron Zemo.png' height='130px' width='130px'>"],["Male"],["Villain"],["Human"],["None"],["Earth"],["None"],["Movies", "Live action series"]];
+Cassandra = [["<img src='Pictures/Cassandra Nova.png' height='130px' width='130px'>"],["Female"],["Villain"],["Mutant"],["Psychic", "Kinesis", "Interdimensional Travel", "Teleportation"],["Earth"],["None"],["Movies"]];
+Namor = [["<img src='Pictures/Batroc.png' height='130px' width='130px'>"],["Male"],["Antihero"],["Human"],["None"],["Earth"],["None"],["Movies", "Live action series"]];
+Valkyrie = [["<img src='Pictures/Valkyrie.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Asgardian"],["Strength", "Resistance", "Regeneration"],["Asgard"],["Revengers"],["Movies"]];
+Vision = [["<img src='Pictures/Vision.png' height='130px' width='130px'>"],["Male"],["Superhero"],["Robot"],["Strength", "Energy", "Resistance", "Regeneration","Flight", "Shapeshifting"],["Earth"],["Avengers"],["Movies", "Live action series"]];
+Volstagg = [["<img src='Pictures/Volstagg.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Asgardian"],["Strength", "Resistance", "Regeneration"],["Asgard"],["Warriors Three"],["Movies"]];
+Nakia = [["<img src='Pictures/Nakia.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Human"],["None"],["Earth"],["None"],["Movies"]];
+Natalie = [["<img src='Pictures/N.A.T.A.L.I.E..png' height='130px' width='130px'>"],["Male"],["Supporting"],["Artificial Intelligence"],["Technological"],["Earth"],["None"],["Live action series"]];
+Nebula = [["<img src='Pictures/Nebula.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Luphomoid"],["Strength", "Agility", "Resistance", "Regeneration", "Technological", "Shapeshifting"],["Luphom"],["Avengers", "Guardians of the Galaxy", "Black Order"],["Movies"]];
+Makkari = [["<img src='Pictures/Makkari.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Eternal"],["Strength", "Resistance", "Regeneration", "Speed"],["Worldforge"],["Eternals"],["Movies"]];
+Malekith = [["<img src='Pictures/Malekith.png' height='130px' width='130px'>"],["Male"],["Villain"],["Dark Elf"],["Strength", "Energy", "Resistance", "Regeneration", "Kinesis"],["Svartalfheim"],["None"],["Movies"]];
+Mantis = [["<img src='Pictures/Mantis.png' height='130px' width='130px'>"],["Female"],["Superhero"],["Celestial", "Unknown"],["Strength", "Agility", "Resistance", "Psychic"],["Unknown"],["Guardians of the Galaxy"],["Movies"]];
+Miek = [["<img src='Pictures/Miek.png' height='130px' width='130px'>"],["Female"],["Supporting"],["Sakaaran"],["Strength", "Resistance", "Technological"],["Sakaar"],["None"],["Movies"]];
+Minutes = [["<img src='Pictures/Miss Minutes.png' height='130px' width='130px'>"],["Other"],["Villain"],["Artificial Intelligence"],["Technological", "Shapeshifting"],["Unknown"],["TVA"],["Live action series"]];
+Morris = [["<img src='Pictures/Morris.png' height='130px' width='130px'>"],["Male"],["Unknown"],["Dijiang"],["Perception", "Flight"],["Talo"],["None"],["Movies", "Live action series"]];
 const allchars = [IronMan, Cap, spid, LokiSac, LokiVar, Thor, 
     Myst, Quake, Quick, Starlord, AdamW, AliceW, BlackWid,
     SamW, Deadpool, IronH, JackR, Kingpin, Mandarin, ScarletW,
@@ -144,7 +179,12 @@ const allchars = [IronMan, Cap, spid, LokiSac, LokiVar, Thor,
     Arishem, Ayo, Ghost, Vallentina, Bobbi, Cosmo, Strange,
     Swords, Leader, Moon, Sersi, Shang, Sif, Sprite, Sylvie,
     Zelma, CaptainM, Daredevil, DeathD, Dormammu, Drax, Druig,
-    Mobius, Frigga, Fury, Corvus, Gamora, Gilgamesh, Goose, Groot];
+    Mobius, Frigga, Fury, Corvus, Gamora, Gilgamesh, Goose, Groot,
+    Happy, Hawkeye, Heimdall, Hela, Hogun, Hulk, Maria, Hart,
+    Jennifer, Kaecilius, Kahhori, Kate, Khonshu, Kingo, Korg,
+    MsMarvel, Batroc, Laufey, Lilia, Luis, Zemo, Cassandra, Namor,
+    Valkyrie, Vision, Volstagg, Nakia, Natalie, Nebula, Makkari, Malekith, Mantis,
+    Miek, Minutes, Morris];
 const GuessArea = document.getElementById("Guess");
 const Input = document.getElementById("input");
 const randomChar = allchars[Math.floor(Math.random() * allchars.length)];
@@ -179,7 +219,14 @@ var Characters = ["Iron Man", "Captain America (Steve Rogers)",
     "Shang-Chi", "Sif", "Sprite", "Sylvie", "Zelma Stanton",
     "Captain Marvel", "Daredevil", "Death Dealer", "Dormammu",
     "Drax the Destroyer", "Druig", "Mobius", "Frigga", "Nick Fury",
-    "Corvus Glaive", "Gamora", "Gilgamesh", "Goose", "Groot"];
+    "Corvus Glaive", "Gamora", "Gilgamesh", "Goose", "Groot",
+    "Happy Hogan", "Hawkeye", "Heimdall", "Hela", "Hogun", "Hulk",
+    "Maria Hill", "Mrs. Hart", "Jennifer Kale", "Kaecilius",
+    "Kahhori", "Kate Bishop", "Khonshu", "Kingo", "Korg",
+    "Ms. Marvel", "Batroc", "Laufey", "Lilia Calderu", "Luis",
+    "Baron Zemo", "Cassandra Nova", "Namor", "Valkyrie", "Vision",
+    "Volstagg", "Nakia", "N.A.T.A.L.I.E.", "Nebula", "Makkari",
+    "Malekith", "Mantis", "Miek", "Miss Minutes", "Morris"];
 var aliases = {
     "quentin beck": "Mysterio",
     "quake": "Quake",
@@ -397,14 +444,190 @@ var aliases = {
     "frank castle": "Punisher",
     "glaive": "Corvus Glaive",
     "gamora": "Gamora",
-    "ghost": "Gilgamesh",
+    "ghost": "Ghost",
+    "gilgamesh": "Gilgamesh",
     "goose": "Goose",
     "gorr the god butcher": "Gorr the God Butcher",
     "god butcher": "Gorr the God Butcher",
     "grandmaster": "Grandmaster",
     "groot": "Groot",
     "grant": "Moon Knight",
-    "guardian": "Red Guardian"
+    "guardian": "Red Guardian",
+    "harkness": "Agatha Harkness",
+    "happy hogan": "Happy Hogan",
+    "hogan": "Happy Hogan",
+    "hawkeye": "Hawkeye",
+    "heimdall": "Heimdall",
+    "hela": "Hela",
+    "he who remains": "He Who Remains",
+    "high evolutionary": "High Evolutionary",
+    "hogun": "Hogun",
+    "hood": "Hood",
+    "hulk": "Hulk",
+    "hammer": "Justin Hammer",
+    "hill": "Maria Hill",
+    "hansen": "Maya Hansen",
+    "hart": "Mrs.Hart",
+    "hulk": "Red Hulk",
+    "hope van dyne": "Wasp",
+    "judge": "Arishem",
+    "joaquin torres": "Falcon (Joaquin Torres)",
+    "jack duquesne": "Swordsman",
+    "jack russell": "Jack Russell",
+    "jennifer kale": "Jennifer Kale",
+    "justin hammer": "Justin Hammer",
+    "jane foster": "Mighty Thor",
+    "jake lockely": "Moon Knight",
+    "johnson": "Quake",
+    "johann schmidt": "Red Skull",
+    "jen walters": "She-Hulk",
+    "jennifer walters": "She-Skull",
+    "john walker": "U.S. Agent",
+    "jonathan walker": "U.S. Agent",
+    "james rhodes": "War Machine",
+    "james buchanan barnes": "Winter Soldier",
+    "killian": "Aldrich Killian",
+    "kale": "Jennifer Kale",
+    "kaecilius": "Kaecilius",
+    "kahhori": "Kahhori",
+    "kang the conqueror": "Kang the Conqueror",
+    "kate bishop": "Kate Bishop",
+    "khonshu": "Khonshu",
+    "killmonger": "Killmonger",
+    "kingo": "Kingo",
+    "kingpin": "Kingpin",
+    "korg": "Korg",
+    "kraglin obfonteri": "Kraglin Obfonteri",
+    "knight": "Moon Knight",
+    "kamala khan": "Ms. Marvel",
+    "khan": "Ms. Marvel",
+    "klaue": "Ulysses Klaue",
+    "lang": "Ant-Man",
+    "leaper": "Batroc",
+    "li ching-lin": "Death Dealer",
+    "lopez": "Echo",
+    "laufey": "Laufey",
+    "leader": "Leader",
+    "lilia calderu": "Lilia Calderu",
+    "loki (sacred timeline)": "Loki (Sacred Timeline)",
+    "laufeyson": "Loki (Sacred Timeline)",
+    "loki (variant L1130)": "Loki (Variant L1130)",
+    "laufeyson‎": "Loki (Variant L1130)",
+    "luis": "Luis",
+    "lylla": "Lylla",
+    "lord": "Star-Lord",
+    "loki": "Sylvie",
+    "laufeyson‎‎": "Sylvie",
+    "zemo": "Baron Zemo",
+    "zeke stane": "Ezekiel Stane",
+    "zelma stanton": "Zelma Stanton",
+    "xavier": "Cassandra Nova",
+    "xu wenwu": "Mandarin",
+    "xu shang-chi": "Shang-Chi",
+    "coulson": "Agent Coulson",
+    "chavez": "America Chavez",
+    "captain america (sam wilson)": "Captain America (Steve Wilson)",
+    "captain america (steve rogers)": "Captain America (Steve Rogers)",
+    "captain marvel": "Captain Marvel",
+    "carol denvers": "Captain Marvel",
+    "cassandra nova": "Cassandra Nova",
+    "collector": "Collector",
+    "corvus glaive": "Corvus Glaive",
+    "cosmo": "Cosmo",
+    "crossbones": "Crossbones",
+    "cull obsidian": "Cull Obsidian",
+    "clint barton": "Hawkeye",
+    "celui qui demeure": "He Who Remains",
+    "conqueror": "Kang the Conqueror",
+    "calderu": "Lilia Calderu",
+    "ch'ah toh almehen": "Namor",
+    "carter": "Peggy Carter",
+    "castle": "Punisher",
+    "chi": "Shang-Chi",
+    "carter‎": "Sharon Carter",
+    "captain america": "U.S. Agent",
+    "vidal": "Death",
+    "victor timely": "He Who Remains",
+    "victor timely‎": "Kang the Conqueror",
+    "void": "Sentry",
+    "vallentina allegra de fontaine": "Vallentina Allegra de Fontaine",
+    "valkyrie": "Valkyrie",
+    "victor timely‎‎": "Victor Timely",
+    "vision": "Vision",
+    "volstagg": "Volstagg",
+    "vulture": "Vulture",
+    "van dyne": "Wasp",
+    "vanko": "Whiplash",
+    "blonsky": "Abomination",
+    "baron zemo": "Baron Zemo",
+    "batroc": "Batroc",
+    "black panther (shuri)": "Black Panther (Shuri)",
+    "black panther (t'challa)": "Black Panther (T'Challa)",
+    "black widow": "Black Widow",
+    "bobbi morse": "Bobbi Morse",
+    "bullseye": "Bullseye",
+    "byrdie the duck": "Byrdie the Duck",
+    "brock rumlow": "Crossbones",
+    "bloodstone": "Elsa Bloodstone",
+    "butcher": "Gorr the God Butcher",
+    "barton": "Hawkeye",
+    "bruce banner": "Hulk",
+    "banner": "Hulk",
+    "bishop": "Kate Bishop",
+    "beck": "Mysterio",
+    "bob reynolds": "Sentry",
+    "broker": "Sharon Carter",
+    "billy maximoff": "William Maximoff",
+    "bucky barnes": "Winter Soldier",
+    "barnes": "Winter Soldier",
+    "belova": "Yelena",
+    "natasha romanoff": "Black Widow",
+    "nova": "Cassandra Nova",
+    "n'jobu": "Killmonger",
+    "nakia": "Nakia",
+    "namor": "Namor",
+    "n.a.t.a.l.i.e.": "N.A.T.A.L.I.E.",
+    "natalie": "N.A.T.A.L.I.E.",
+    "nebula": "Nebula",
+    "nick fury": "Nick Fury",
+    "night": "Spider-Man",
+    "midnight angel": "Aneka",
+    "morse": "Bobbi Morse",
+    "marvel": "Captain Marvel",
+    "matt murdock": "Daredevil",
+    "matthew murdock": "Daredevil",
+    "maw": "Ebony Maw",
+    "maya lopez": "Echo",
+    "mother": "Frigga",
+    "makkari": "Makkari",
+    "malekith": "Malekith",
+    "mandarin": "Mandarin",
+    "man-thing": "Man-Thing",
+    "mantis": "Mantis",
+    "maria hill": "Maria Hill",
+    "maya hansen": "Maya Hansen",
+    "miek": "Miek",
+    "mighty thor": "Mighty Thor",
+    "miss minutes": "Miss Minutes",
+    "minutes": "Miss Minutes",
+    "mobius": "Mobius",
+    "monica rambeau": "Monica Rambeau",
+    "moon knight": "Moon Knight",
+    "morris": "Morris",
+    "mrs. hart": "Mrs. Hart",
+    "ms. marvel": "Ms. Marvel",
+    "marvel‎": "Ms. Marvel",
+    "mysterio": "Mysterio",
+    "midnight angels‎": "Okoye",
+    "midnight": "Proxima Midnight",
+    "maximoff": "Quicksilver",
+    "maximoff‎": "Scarlet Witch",
+    "miss hulk": "She-Hulk",
+    "maximoff‎‎": "Tommy Maximoff",
+    "moustache": "Teefs",
+    "mandarin‎": "Trevor Slattery",
+    "machine": "War Machine",
+    "maximoff‎‎‎": "William Maximoff"
 };
 const suggestions = document.getElementById("suggestions");
 const GameArea = document.getElementById("GameArea");
@@ -954,6 +1177,154 @@ function Guess(){
             case "Groot":
                 Characters[128] = "";
                 run(Groot);
+                break;
+            case "Happy Hogan":
+                Characters[129] = "";
+                run(Happy);
+                break;
+            case "Hawkeye":
+                Characters[130] = "";
+                run(Hawkeye);
+                break;
+            case "Heimdall":
+                Characters[131] = "";
+                run(Heimdall);
+                break;
+            case "Hela":
+                Characters[132] = "";
+                run(Hela);
+                break;
+            case "Hogun":
+                Characters[133] = "";
+                run(Hogun);
+                break;
+            case "Hulk":
+                Characters[134] = "";
+                run(Hulk);
+                break;
+            case "Maria Hill":
+                Characters[135] = "";
+                run(Maria);
+                break;
+            case "Mrs. Hart":
+                Characters[136] = "";
+                run(Hart);
+                break;
+            case "Jennifer Kale":
+                Characters[137] = "";
+                run(Jennifer);
+                break;
+            case "Kaecilius":
+                Characters[138] = "";
+                run(Kaecilius);
+                break;
+            case "Kahhori":
+                Characters[139] = "";
+                run(Kahhori);
+                break;
+            case "Kate Bishop":
+                Characters[140] = "";
+                run(Kate);
+                break;
+            case "Khonshu":
+                Characters[141] = "";
+                run(Khonshu);
+                break;
+            case "Kingo":
+                Characters[142] = "";
+                run(Kingo);
+                break;
+            case "Korg":
+                Characters[143] = "";
+                run(Korg);
+                break;
+            case "Ms. Marvel":
+                Characters[144] = "";
+                run(MsMarvel);
+                break;
+            case "Batroc":
+                Characters[145] = "";
+                run(Batroc);
+                break;
+            case "Laufey":
+                Characters[146] = "";
+                run(Laufey);
+                break;
+            case "Lilia Calderu":
+                Characters[147] = "";
+                run(Lilia);
+                break;
+            case "Luis":
+                Characters[148] = "";
+                run(Luis);
+                break;
+            case "Baron Zemo":
+                Characters[149] = "";
+                run(Zemo);
+                break;
+            case "Cassandra Nova":
+                Characters[150] = "";
+                run(Cassandra);
+                break;
+            case "Valkyrie":
+                Characters[151] = "";
+                run(Valkyrie);
+                break;
+            case "Vision":
+                Characters[152] = "";
+                run(Vision);
+                break;
+            case "Volstagg":
+                Characters[153] = "";
+                run(Volstagg);
+                break;
+            case "Nakia":
+                Characters[154] = "";
+                run(Nakia);
+                break;
+            case "N.A.T.A.L.I.E.":
+                Characters[155] = "";
+                run(Natalie);
+                break;
+            case "Nebula":
+                Characters[156] = "";
+                run(Nebula);
+                break;
+            case "Miek":
+                Characters[157] = "";
+                run(Miek);
+                break;
+            case "Miss Minutes":
+                Characters[158] = "";
+                run(Minutes);
+                break;
+            case "Morris":
+                Characters[159] = "";
+                run(Morris);
+                break;
+            case "Makkari":
+                Characters[160] = "";
+                run(Makkari);
+                break;
+            case "Malekith":
+                Characters[161] = "";
+                run(Malekith);
+                break;
+            case "Mantis":
+                Characters[162] = "";
+                run(Mantis);
+                break;
+            case "Miek":
+                Characters[163] = "";
+                run(Miek);
+                break;
+            case "Miss Minutes":
+                Characters[164] = "";
+                run(Minutes);
+                break;
+            case "Morris":
+                Characters[165] = "";
+                run(Morris);
                 break;
         };
     };
