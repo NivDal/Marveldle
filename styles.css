@@ -32,6 +32,9 @@ body{
     font-family: Araboto;
     text-align: center;
     margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .sel {
     display: flex;           
