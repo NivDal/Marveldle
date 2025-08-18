@@ -1372,11 +1372,14 @@ function run(char){
         GameArea.appendChild(newguess);
     }
     if (char == randomChar){
-        GuessArea.innerHTML += "Correct!";
-        let img = document.createElement("img");
-        img.setAttribute("src", "Pictures/" + guess + ".png");
-        img.setAttribute("height", "500px");
-        img.setAttribute("width", "500px");
-        win.appendChild(img);
+        setTimeout(() => {Win(guess);}, 5000);
     }
 };
+function Win(guess){
+    GuessArea.innerHTML += "Correct!";
+    let img = document.createElement("img");
+    img.setAttribute("src", "Pictures/" + guess + ".png");
+    img.setAttribute("height", "500px");
+    img.setAttribute("width", "500px");
+    win.appendChild(img);
+}
